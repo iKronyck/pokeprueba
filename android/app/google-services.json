@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "634918544694",
+    "firebase_url": "https://pokeprueba.firebaseio.com",
+    "project_id": "pokeprueba",
+    "storage_bucket": "pokeprueba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634918544694:android:0743258846aead7e",
+        "android_client_info": {
+          "package_name": "com.pokeprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634918544694-omt0amuqq0sg6i52d5k0jqqs7giarfvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv4WEKzmdf3bEdCAyWBeYDOaEq8OmR_Po"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
